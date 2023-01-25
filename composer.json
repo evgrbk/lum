@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Lumener\\LumenerServiceProvider"
+                "Evgrbk\\Lum\\LumenerServiceProvider"
             ]
         }
     }
